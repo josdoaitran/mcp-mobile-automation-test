@@ -1,6 +1,7 @@
 # mcp-mobile-automation-test
 a comprehensive MCP server for mobile test automation that covers all your requirements. Here's what the solution provides:
-🚀 Key Features
+
+🚀 Key Features of my MCP Mobile Automation Test
 1. Framework Integration
 
 Supports multiple frameworks: Appium, Detox, XCUITest, Espresso
